@@ -1,0 +1,8 @@
+[gd_resource type="DynamicFont" load_steps=2 format=2]
+
+[ext_resource path="res://Roboto-Bold.ttf" type="DynamicFontData" id=1]
+
+[resource]
+size = 1024
+outline_color = Color( 0.54902, 0.901961, 0.0431373, 1 )
+font_data = ExtResource( 1 )
